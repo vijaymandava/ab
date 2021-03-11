@@ -1,0 +1,16 @@
+{
+   "editedBy":"Admin",
+   "userName":"vijay",
+   "firstName":"vijay",
+   "middleInitial":"m",
+   "lastName":"mandava",
+   "emailAddress":"vijay@rmb.com",
+   "telephoneNumber":"603-555-1212",
+   "extension":"5309",
+   "password":"Password123",
+   "confirmPassword":"Password123",
+   "userRoleName":"FieldService",
+   "deactivated":"false",
+   "hidden":"false",
+   "isADUser":"true"
+}

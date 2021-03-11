@@ -1,0 +1,52 @@
+from django.contrib import admin
+
+# from app_sm_rx.models import SmRxConfig, SmRxRequest, SmRxPostOrder
+
+# admin.site.register(SmRxConfig)
+# admin.site.register(SmRxRequest)
+# admin.site.register(SmRxPostOrder)
+
+# admin.list_per_page = 200
+
+from app_sm_rx.models import CustomerToCmPostOrderRequest
+from app_sm_rx.models import CustomerToCmPostOrderResponse
+from app_sm_rx.models import CustomerToCmPostCancelRequest
+from app_sm_rx.models import CustomerToCmPostCancelResponse
+from app_sm_rx.models import CmToCustomerPostLoadedRequest
+from app_sm_rx.models import CmToCustomerPostLoadedResponse
+from app_sm_rx.models import CmToCustomerPostCanceledRequest
+from app_sm_rx.models import CmToCustomerPostCanceledResponse
+from app_sm_rx.models import CmToCustomerPostCompletedRequest
+from app_sm_rx.models import CmToCustomerPostCompletedResponse
+from app_sm_rx.models import CmToCustomerPostAssayStatusRequest
+from app_sm_rx.models import CmToCustomerPostAssayStatusResponse
+from app_sm_rx.models import CustomerToCmGetAssayDetailsRequest
+from app_sm_rx.models import CustomerToCmGetAssayDetailsResponse
+from app_sm_rx.models import CustomerToCmGetAssayStatusRequest
+from app_sm_rx.models import CustomerToCmGetAssayStatusResponse
+from app_sm_rx.models import CmToCustomerPostResultsRequest
+from app_sm_rx.models import CmToCustomerPostResultsResponse
+from app_sm_rx.models import CmToCustomerPostResultsOnApprovalRequest
+from app_sm_rx.models import CmToCustomerPostResultsOnApprovalResponse
+
+admin.site.register(CustomerToCmPostOrderRequest)
+admin.site.register(CustomerToCmPostOrderResponse)
+admin.site.register(CustomerToCmPostCancelRequest)
+admin.site.register(CustomerToCmPostCancelResponse)
+admin.site.register(CmToCustomerPostLoadedRequest)
+admin.site.register(CmToCustomerPostLoadedResponse)
+admin.site.register(CmToCustomerPostCanceledRequest)
+admin.site.register(CmToCustomerPostCanceledResponse)
+admin.site.register(CmToCustomerPostCompletedRequest)
+admin.site.register(CmToCustomerPostCompletedResponse)
+admin.site.register(CmToCustomerPostAssayStatusRequest)
+admin.site.register(CmToCustomerPostAssayStatusResponse)
+admin.site.register(CustomerToCmGetAssayDetailsRequest)
+admin.site.register(CustomerToCmGetAssayDetailsResponse)
+admin.site.register(CustomerToCmGetAssayStatusRequest)
+admin.site.register(CustomerToCmGetAssayStatusResponse)
+admin.site.register(CmToCustomerPostResultsRequest)
+admin.site.register(CmToCustomerPostResultsResponse)
+admin.site.register(CmToCustomerPostResultsOnApprovalRequest)
+admin.site.register(CmToCustomerPostResultsOnApprovalResponse)
+

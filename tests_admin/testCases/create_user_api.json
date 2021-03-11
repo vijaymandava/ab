@@ -1,0 +1,16 @@
+{
+   "editedBy":"vijay",
+   "userName":"vijay",
+   "firstName":"v",
+   "middleInitial":"i",
+   "lastName":"j",
+   "emailAddress":"abc@def.com",
+   "telephoneNumber":"23",
+   "extension":"5309",
+   "password":"Password123",
+   "confirmPassword":"Password123",
+   "userRoleName":"Administrator",
+   "deactivated":"false",
+   "hidden":"false",
+   "isADUser":"false"
+}

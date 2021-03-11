@@ -1,0 +1,61 @@
+Add Role
+×
+Close
+Name:
+System:
+Select All
+Methods
+Create Method
+Edit Method
+Delete Method
+Action / Alerts
+Create Action / Alert
+Edit Action / Alert
+Delete Action / Alert
+Handling Rules
+Create Handling Rules
+Edit Handling Rules
+Delete Handling Rules
+Samples
+Create Sample
+Edit Sample
+Delete Sample
+Products
+Create Products
+Edit Products
+Delete Products
+Users
+Create User
+Edit User
+Delete User
+User Roles
+Create User Role
+Edit User Role
+Delete User Role
+Tests & Labels
+Order Tests
+Load Tests
+Print Worklist Labels
+Cassette Operations
+Cancel Cassettes
+Retrieve Cassettes
+Approve Cassettes
+Cleanup Cassettes
+LIMS
+Edit LIMS Settings
+Print LIMS Labels
+Modify LIMS Request
+Edit LIMS Test Results
+System
+Ack. Alarms
+Ack. System Errors
+Ack. Service Issues
+Empty Trash
+Administer System
+Edit General Settings
+Edit IT Settings
+Maintenance
+Service
+Send System Logs
+Save
+Close

@@ -1,0 +1,16 @@
+Add User
+Close
+UserName:
+FirstName:
+Middle Initial:
+LastName:
+EmailId:
+Telephone:
+Extension:
+Password:
+Confirm Password:
+Activate:
+System:
+Role:
+Save
+Close

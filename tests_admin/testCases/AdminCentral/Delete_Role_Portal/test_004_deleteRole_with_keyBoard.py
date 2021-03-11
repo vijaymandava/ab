@@ -1,0 +1,1 @@
+# Test DeleteRole when user access with Keyboard Shift

@@ -1,0 +1,23 @@
+Add User
+
+Close
+UserName:
+FirstName:
+Middle Initial:
+LastName:
+EmailId:
+Telephone:
+Extension:
+Password:
+Confirm Password:
+Activate:
+System:
+E02215194
+E1234
+Role:
+Administrator
+FieldService
+NVgROXPsIqSfxQjYHtyoDnw
+Operator
+Save
+Close

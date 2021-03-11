@@ -1,0 +1,8 @@
+﻿# note specification says cancel requires only lims_ID, not m/aa/hrreal
+# instrument does work correctly
+# simulator does not (requires m/aa/hr)
+# an AZU is opened on this topic
+
+CANCEL,20090912,,,,m10000,hr,aa,real instrument does not require m/aa/hr
+CANCEL,20090913,,,,m10000,hr,aa,real instrument does not require m/aa/hr
+

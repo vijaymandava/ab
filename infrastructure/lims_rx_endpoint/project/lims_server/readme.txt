@@ -1,0 +1,13 @@
+
+common commands...
+
+start server...
+python manage.py runserver 9001
+
+migrate database...
+python manage.py showmigrations
+python manage.py makemigrations
+python manage.py migrate
+or more specifically...
+python manage.py sqlmigrate app_sm_rx 0001
+

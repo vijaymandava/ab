@@ -1,0 +1,16 @@
+selenium
+pytest
+pytest-html
+flake8
+
+# requests
+# urllib3 (standard library)
+jsonpath
+
+Django
+django-crispy-forms
+django-tables2
+django-pandas
+
+pywinauto
+

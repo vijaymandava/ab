@@ -1,0 +1,8 @@
+createMethod': True, 'editMethod': True, 'deleteMethod': True, 'createActionAlertLevel': True,
+'editActionAlertLevel': True, 'deleteActionAlertLevel': True, 'createHandlingRule': True, 'editHandlingRule': True, 'deleteHandlingRule': True, 'createSamp
+le': True, 'editSample': True, 'deleteSample': True, 'createProduct': True, 'editProduct': True, 'deleteProduct': True, 'createUser': True, 'editUser': Tru
+e, 'deleteUser': True, 'createUserRole': True, 'editUserRole': True, 'deleteUserRole': True, 'cancelCassettes': True, 'retrieveCassettes': True, 'approveCa
+ssettes': True, 'cleanupCassettes': True, 'orderTests': True, 'loadTests': True, 'printProductLabels': True, 'administerGD': True, 'editSettings': True, 'm
+aintenance': True, 'acknowledgeSystemAlarms': True, 'acknowledgeSystemErrors': True, 'acknowledgeSystemServiceIssues': True, 'editAlarmNotifications': True
+, 'emptyTrash': True, 'service': True, 'editITSettings': True, 'editLimsSettings': True, 'printLimsLabels': True, 'modifyLimsRequest': True, 'editLimsTestR
+esultsFields': True, 'sendSystemLogs': True

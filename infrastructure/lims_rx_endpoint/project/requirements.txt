@@ -1,0 +1,15 @@
+selenium
+pytest
+flake8
+
+requests
+jsonpath
+
+
+Django
+djangorestframework
+django-crispy-forms
+django-tables2
+django-pandas
+
+httpie
